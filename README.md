@@ -1,0 +1,1 @@
+# automata-avs-operator-metadata
